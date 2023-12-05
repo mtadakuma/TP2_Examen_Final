@@ -50,7 +50,7 @@ class EleccionApi {
                     { "candidatoA": votaciones[0] }, 
                     { "candidatoB": votaciones[1] }, 
                     { "candidatoC": votaciones[2] }, 
-                    { "enBlanco": votaciones[3] }, 
+                    { "enblanco": votaciones[3] }, 
                 ]
 
                 return await resultados;
